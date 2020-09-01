@@ -3,3 +3,7 @@ class Dog
     
   end
 end
+
+#need name setter
+#need name getter
+#create bark instance method 
